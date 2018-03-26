@@ -5,7 +5,7 @@ Each ZIP will contain one of the following binaries:
 * coderunner2 (Modern Pascal v2.0) latest standalone script server, like node.js but faster and larger scale
 * libmod_mp2.so (Modern Pascal v2.0) latest Apache Module script engine, like PHP but for structured pascal
 
-Normally I install the mp2 binary in either /bin, /bin/usr/ or /usr/local/bin depending upon the OS structure.
+Normally I install the mp2 binary in either /bin, /usr/bin or /usr/local/bin depending upon the OS structure.
 
 Same with coderunner2, then I create a coderunner script in the /etc/init.d/ folder, or I launch it in /etc/rc.local.
 * it looks in the local folder for coderunner.conf if not found, looks in /etc/coderunner.conf
