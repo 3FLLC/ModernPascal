@@ -7,7 +7,7 @@ Each ZIP will contain one of the following binaries:
 
 Normally I install the mp2 binary in /usr/local/bin depending upon the OS structure.
 
-Same with coderunner2, then I create a coderunner script in the /etc/init.d/ folder, or I launch it in /etc/rc.local.
+Same with coderunner2.
 * it looks in the local folder for coderunner.conf if not found, looks in /etc/coderunner.conf
 * Structure of coderunner2.conf:
 ```
