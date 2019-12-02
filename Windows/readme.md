@@ -1,6 +1,6 @@
-= Windows(r) Binaries
+# Windows(r) Binaries
 
-== 32-bit
+## 32-bit
 
 MP2_32BIT.ZIP contains
 
