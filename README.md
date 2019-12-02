@@ -9,17 +9,19 @@ Modern Pascal is a complete Pascal environment, with binaries for Windows, Mac a
 * Linux 64bit Editions: CodeRunner (coderunner2), Apache Module (celerity)
 * Linux 64bit SSL Editions: Command Line Interface (mp2)
 
-In Development/Testing
-* Windows 32bit Edition: Debugging
-* Windows 32bit SSL Edition: slated for next month
+## Project News (November 2019)
+* Windows 32bit Edition: Command Line Interface (mp2), CodeRunner (coderunner2)
+* Windows 32bit SSL Edition: Base, SSL, ASpell, SSL and ASpell
+
+## Coming Soon:
 * Windows 64bit Edition: Debugging
-* Windows 64bit SSL Edition: after debugging is complete
+
 * Raspberry Pi 32bit: Need time to build on my Pi and deploy for testers
 * Researching cross platform Modem Support
 
 ## Parallel Projects (ones that depend upon Modern Pascal)
 **Rhenium** A Fidonet Mailer (GUI and Console) support BinkP 1.1 and Extensions
-**PCBoard** Version 16.0 (TCP based no modem support)
+**RyoBBS** Version 1.0 (TCP based no modem support)
 **JAMTosser** A cross platform implementation of PKT 2, 2.2 and 2+ to JAM tosser
 **nntpproxy** A cross platform NNTP (Newsgroup/Usenet Compatible) Server - using JAM
 **CMS Back Office** A web based version of our 30+ year old Retail Accounting software
