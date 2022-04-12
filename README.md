@@ -22,9 +22,13 @@ Modern Pascal is a complete Pascal environment, with binaries for Windows, Mac a
 
 ## Parallel Projects (ones that depend upon Modern Pascal)
 **Rhenium/3** A Fidonet Mailer (GUI and Console) support BinkP 1.1 and Extensions
+
 ~~**Legacy/X BBS** Version 1-A5 (TCP based no modem support)~~
+
 **WhiteLabel BBS** New Super BBS Kit (16bit, 32bit, and 64bit - Binary).
+
 **NNTP Server** A cross platform NNTP (Newsgroup/Usenet Compatible) Server - using JAM for storage
+
 **JAMTosser** A cross platform implementation of PKT 2, 2.2 and 2+ to JAM tosser
 
 **Custom Micro Solutions - Point of Sale and Back Office** A web based version of our 30+ year old Retail Accounting Software Suite
